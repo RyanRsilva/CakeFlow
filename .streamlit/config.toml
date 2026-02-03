@@ -1,0 +1,9 @@
+[theme]
+primaryColor = "#E63946"    # Um vermelho cereja elegante para botões e destaques
+backgroundColor = "#1A1A1A" # Fundo escuro suave (melhor que preto absoluto)
+secondaryBackgroundColor = "#262730" # Fundo dos cards e sidebar
+textColor = "#FAFAFA"       # Texto claro
+font = "sans serif"
+
+[server]
+runOnSave = true
